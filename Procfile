@@ -1,1 +1,1 @@
-web: java -jar target/santader-bootcamp-0.0.1-SNAPSHOT.jar
+web: java -jar santader-bootcamp-0.0.1-SNAPSHOT.jar
